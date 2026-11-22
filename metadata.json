@@ -1,0 +1,6 @@
+{
+  "name": "La Casa de los Mariscos — Ushuaia",
+  "description": "Landing page oficial y carta digital interactiva de La Casa de los Mariscos en Av. San Martín 232, Ushuaia. Pedidos y reservas por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
